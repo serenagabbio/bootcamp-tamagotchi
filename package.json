@@ -1,0 +1,28 @@
+{
+  "name": "tamagotchi",
+  "version": "1.0.0",
+  "description": "A simple tamagotchi game on command line",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "start": "node index.js --name=Dino"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ui-bootcamp/vu-serena-js.git"
+  },
+  "author": "Serena Gabbio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ui-bootcamp/vu-serena-js/issues"
+  },
+  "homepage": "https://github.com/ui-bootcamp/vu-serena-js#readme"
+}
