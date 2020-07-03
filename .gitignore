@@ -1,0 +1,4 @@
+node_modules
+.vscode
+src/store/*.json
+src/log/*.log
