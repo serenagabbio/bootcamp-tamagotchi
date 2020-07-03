@@ -1,6 +1,6 @@
 
 ##Tamagotchi
-A simple CLI implementation of the Tamagotchi Game developed by sere-g
+A simple CLI implementation of the Tamagotchi Game developed by serenagabbio
 
 ## To start the game 
 npm start
